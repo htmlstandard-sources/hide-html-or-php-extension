@@ -1,4 +1,4 @@
-# hide-.html-extension-on-website
+# Hide .html extension on website
 
 
 ## Installation
