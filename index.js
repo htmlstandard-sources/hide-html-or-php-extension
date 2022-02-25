@@ -14,6 +14,11 @@ app.get('/docs', (req, res) => {
     res.render('docs.html')
 })
 
+app.get('/test', (req, res) => {
+    res.render('test.php')
+})
+
+
 
 const listener = app.listen(1881)
 console.log(`Listening at ${listener.address().port}`);
