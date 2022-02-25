@@ -5,6 +5,7 @@ const html = require('html');
 const ejs = require('ejs');
 app.set('view engine', 'ejs');
 app.engine('html', ejs.renderFile);
+app.engine('php', ejs.renderFile);
 
 app.get('/', (req, res) => {
     res.render('index.html')
