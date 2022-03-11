@@ -1,9 +1,6 @@
 # A useful repository for hiding extensions of pages on your HTML or Php website.
 
 
-# Hide HTML or PHP extension
-[![DVSCode server](https://discord.com/api/guilds/913547472696115250/widget.png?style=banner1)](https://discord.gg/qsG7PSB7Wg)
-
 Hi guys, welcome to GitHub Hide HTML Extension Repository! Here I have given examples to hide Html or PHP extension, I believe you can do it, happy coding
 
 ### Knowledge Required to Operate
